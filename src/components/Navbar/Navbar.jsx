@@ -1,8 +1,6 @@
 import React from 'react'
 import './Navbar.css'
 import logo from '../../assets/wj-logo.png'
-import search from '../../assets/search.png'
-
 
 const Navbar = () => {
     const navItems = [

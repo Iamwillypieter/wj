@@ -1,8 +1,6 @@
 import Slide from "../Slide/Slide";
 import Cardmenu from "../Card/Cardmenu";
-import burger from '../../assets/burger.jpeg';
-import kfc from '../../assets/kfc.jpeg';
-import starbucks from '../../assets/starbucks.jpeg';
+import {bakso, eslumut, kfc, starbucks} from '../Image';
 
 const Content = () => {
     const textStyles = {
@@ -49,10 +47,10 @@ const Content = () => {
                     </div>
                     <div className="row justify-content-center my-5">
                         <div className="col-lg-4 col-md-6 my-2">
-                            <Cardmenu image={burger} menu="Burger" desc="Rp. 10.000" />
+                            <Cardmenu image={eslumut} menu="Es Lumut" desc="Rp. 10.000" />
                         </div>
                         <div className="col-lg-4 col-md-6 my-2">
-                            <Cardmenu image={starbucks} menu="Starbucks" desc="Rp. 10.000" />
+                            <Cardmenu image={bakso} menu="Bakso Ayam" desc="Rp. 10.000" />
                         </div>
                         <div className="col-lg-4 col-md-6 my-2">
                             <Cardmenu image={kfc} menu="KFC" desc="Rp. 10.000" />

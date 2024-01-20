@@ -1,7 +1,7 @@
 import React from "react";
 import Button from 'react-bootstrap/Button';
 import './Slide.css';
-import backgroundImage from '../../assets/starbucks.jpeg';
+import backgroundImage from '../../assets/eslumut.jpeg';
 
 const Slide = () => {
     return (

@@ -13,7 +13,7 @@ const Footer = () => {
                     <div className="sb_footer-links_div">
                         <h4>For Bussiness</h4>
                         <a href="/employer">
-                            <p>Employer</p>
+                            <p>WhatsApp</p>
                         </a>
                         <a href="/healthplan">
                             <p>Healt Plan</p>
@@ -24,8 +24,8 @@ const Footer = () => {
                     </div>
                     <div className="sb_footer-links_div">
                         <h4>Resources</h4>
-                        <a href="/resource">
-                            <p>Resource Center</p>
+                        <a href="https://github.com/Iamwillypieter/wj">
+                            <p>Github</p>
                         </a>
                         <a href="/resource">
                             <p>Testimonials</p>
@@ -37,7 +37,7 @@ const Footer = () => {
                     <div className="sb_footer-links_div">
                         <h4>Partner</h4>
                         <a href="/employer">
-                            <p>Swing Tech</p>
+                            <p>RelationShip</p>
                         </a>
                     </div>
                     <div className="sb_footer-links_div">
