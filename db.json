@@ -17,8 +17,8 @@
     {
       "id": 1,
       "kode": "K-01",
-      "nama": "Sate Ayam",
-      "harga": 16000,
+      "nama": "Es Lumut",
+      "harga": 10000,
       "is_ready": true,
       "gambar": "sate-ayam.jpg",
       "category": {
@@ -29,7 +29,7 @@
     {
       "id": 2,
       "kode": "K-02",
-      "nama": "Nasi Goreng Telur",
+      "nama": "Bakso Ayam",
       "harga": 14000,
       "is_ready": true,
       "gambar": "nasi-goreng-telor.jpg",
